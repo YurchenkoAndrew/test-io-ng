@@ -1,0 +1,7 @@
+{
+  "name": "test-io-ng",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
